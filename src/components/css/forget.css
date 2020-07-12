@@ -1,0 +1,26 @@
+.container-form-forget {
+    height: 100%;
+    width: 500px;
+    border: 0.5 solid silver; 
+    padding: 70px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+  }
+  .input-form {
+    width: 100%;
+    margin-top: 10px;
+  }
+ 
+  .forget-form {
+    width: 100%;
+    display: flex;
+    margin: auto; 
+  }
+  
+  .forget-form-btn {
+    width: 45%;   
+  }
+  .alert-icon {
+    width: 50px;
+    height: 50px;
+  }
